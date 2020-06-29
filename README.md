@@ -22,9 +22,9 @@ This repo contains a collection of resources for applying DDD collaboratively in
 
 ## Contributions and Feedback
 
-These tools are freely available for you to use. In addition, your feedback and ideas are welcome to improve them. 
+Thanks to all [existing and future contributors](https://github.com/ddd-crew/virtual-modelling-templates/graphs/contributors). These tools are freely available for you to use. In addition, your feedback and ideas are welcome to improve them. 
 
-Feel free to also send us a pull request with your examples or experience reports.
+Feel free to also send us a pull request with your examples or experience reports. If your contribution includes some miro templates please make sure to use the free icons. 
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
