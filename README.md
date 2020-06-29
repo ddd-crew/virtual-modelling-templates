@@ -5,9 +5,17 @@ This repo contains a collection of resources for applying DDD collaboratively in
 
 ![Strategic DDD Miro Template](resources/strategic-ddd-miro-template.png)
 
-Instructions:
+[Download the Miro backup file](resources/strategic-ddd-miro-backup.rtb)
 
-1. Download the [Miro backup file](resources/strategic-ddd-miro-backup.rtb)
+## Context Mapping Miro Template
+
+![Context Mapping Starter Kit Template](resources/Remote-Context-Mapping-Starter-Kit.jpg)
+
+[Download the Miro backup file](resources/Remote-Context-Mapping-Starter-Kit.rtb)
+
+## Instructions
+
+1. Download the Miro backup file
 2. Sign in to your Miro account
 3. Restore the backup file 
 
