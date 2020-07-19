@@ -5,6 +5,8 @@ This repo contains a collection of resources for applying DDD collaboratively in
 
 ![Strategic DDD Miro Template](resources/strategic-ddd-miro-template.png)
 
+[View the free template on Miro](https://miro.com/miroverse/category/strategy-and-planning/strategic-domain-driven-design-template)
+
 [Download the Miro backup file](resources/strategic-ddd-miro-backup.rtb)
 
 ## Context Mapping Miro Template
